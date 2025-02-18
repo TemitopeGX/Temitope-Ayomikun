@@ -1,19 +1,18 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Temitope Ayomikun</h1>
+<h1 align="center">Hi, I'm Temitope Ayomikun</h1>
 <h3 align="center">A Web Designer/Developer, Graphic Designer and a Live Event Streamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temitopegx&label=Profile%20views&color=0e75b6&style=flat" alt="temitopegx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temitopegx" alt="temitopegx" /></a> </p>
+­ I'm currently working on [Covenant Media Sermon App](https://covenant-media.vercel.app/)
 
-- ðŸ”­ Iâ€™m currently working on [Covenant Media Sermon App](https://covenant-media.vercel.app/)
+- ðŸŒ± I'm currently learning **Vue, Python, Angular**
 
-- ðŸŒ± Iâ€™m currently learning **Vue, Python, Angular**
+  » All of my projects are available at [https://github.com/TemitopeGX](https://github.com/TemitopeGX)
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/TemitopeGX](https://github.com/TemitopeGX)
+- ¬ Ask me about **React, Next, HTML, CSS**
 
-- ðŸ’¬ Ask me about **React, Next, HTML, CSS**
-
-- ðŸ“« How to reach me **temitopeayomikun999@gmail.com**
+- « How to reach me **temitopeayomikun999@gmail.com**
 
 - âš¡ Fun fact **I think I am funny ðŸ˜‚,**
 
